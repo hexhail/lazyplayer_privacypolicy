@@ -1,6 +1,6 @@
 # Lazy Player — Privacy Policy
 
-The privacy policy for [Lazy Player](https://lazy-player-b0134.web.app), served with GitHub Pages:
+The privacy policy for [Lazy Player](https://lazyplayer.quest), served with GitHub Pages:
 
 - English: `index.html`
 - Español: `es.html`
